@@ -1,0 +1,34 @@
+{
+  "status": "COMPLETE_PHASE1",
+  "available": [
+    "Neutral.png",
+    "FamilyPhotoSmile.png",
+    "Gentle.png",
+    "Protective.png",
+    "Concerned.png",
+    "Curious.png",
+    "Confused.png",
+    "Afraid.png",
+    "Sad.png",
+    "LookingDown.png",
+    "LookingAside.png",
+    "BlankFamilyPhotoStare.png"
+  ],
+  "source_sheet": "../A006_expression_action_sheet_v1.png",
+  "rule": "All expression references must preserve A006 locked identity and A006-O01 outfit.",
+  "notes": {
+    "Neutral": "ordinary resting face",
+    "FamilyPhotoSmile": "warm family portrait smile for P002-A",
+    "Gentle": "soft older-sister warmth",
+    "Protective": "quiet protective look",
+    "Concerned": "subtle worry",
+    "Curious": "mild curiosity",
+    "Confused": "not understanding the anomaly",
+    "Afraid": "controlled fear, no screaming",
+    "Sad": "restrained sadness",
+    "LookingDown": "downcast thought",
+    "LookingAside": "off-camera attention",
+    "BlankFamilyPhotoStare": "uncanny stillness for photo variants"
+  }
+}
+

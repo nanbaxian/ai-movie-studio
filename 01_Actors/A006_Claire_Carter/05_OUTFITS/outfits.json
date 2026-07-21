@@ -1,0 +1,19 @@
+{
+  "status": "LOCKED_PHASE1",
+  "available": [
+    "A006-O01"
+  ],
+  "outfits": {
+    "A006-O01": {
+      "label": "Family portrait first-erased outfit",
+      "items": [
+        "pale gray-blue knitted cardigan",
+        "white scoop-neck blouse",
+        "dark indigo jeans",
+        "simple dark ankle boots"
+      ],
+      "rule": "Use for all EP001 Claire assets and P002-A unless a later episode explicitly overrides it."
+    }
+  }
+}
+

@@ -1,0 +1,44 @@
+{
+  "actor_id": "A006",
+  "name": "Claire Carter",
+  "status": "VISUAL_IDENTITY_LOCKED",
+  "version": "v1",
+  "project": "EP001",
+  "family_id": "F001",
+  "outfit_code": "A006-O01",
+  "role": "first erased woman / older sister or close female relative",
+  "visual_age": 28,
+  "height_reference_cm": 168,
+  "eye_color": "hazel-brown",
+  "hair_color": "deep brown",
+  "hair_length": "medium-length, soft natural waves, side part",
+  "body_type": "slim natural build",
+  "identity_marks": [
+    "soft heart-shaped face",
+    "straight nose",
+    "gentle mouth with restrained smile",
+    "subtle Carter family resemblance"
+  ],
+  "locked_assets": {
+    "master_face": "01_MASTER/A006_MASTER_FACE_LOCKED.png",
+    "visual_board": "01_MASTER/A006_VISUAL_IDENTITY_LOCKED_v1.png",
+    "front": "02_REFERENCE/FRONT.png",
+    "left45": "02_REFERENCE/LEFT45.png",
+    "right45": "02_REFERENCE/RIGHT45.png",
+    "front_full": "02_REFERENCE/FRONT_FULL.png"
+  },
+  "master_assets": {
+    "visual_identity": "01_MASTER/A006_VISUAL_IDENTITY_LOCKED_v1.png",
+    "multi_angle_sheet": "A006_side_back_props_sheet_v1.png",
+    "expression_action_sheet": "A006_expression_action_sheet_v1.png",
+    "ep001_action_sheet": "A006_ep001_angle_action_preview.png",
+    "preview": "A006_phase1_complete_preview.png"
+  },
+  "episode_usage": {
+    "EP001": [
+      "P002-A complete family portrait",
+      "P002-B first removal comparison"
+    ]
+  }
+}
+

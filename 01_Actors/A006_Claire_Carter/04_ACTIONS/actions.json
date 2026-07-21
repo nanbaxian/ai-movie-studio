@@ -1,0 +1,26 @@
+{
+  "status": "COMPLETE_EP001",
+  "available": [
+    "Standing.png",
+    "FamilyPortraitPose.png",
+    "FarRightPortraitPose.png",
+    "HandsClasped.png",
+    "StandingBesideSibling.png",
+    "SeatedAtTable.png",
+    "HoldingPhoto.png",
+    "Walking.png"
+  ],
+  "source_sheet": "../A006_ep001_angle_action_preview.png",
+  "rule": "All action references must preserve A006 locked identity and A006-O01 outfit.",
+  "notes": {
+    "Standing": "neutral full-body posture",
+    "FamilyPortraitPose": "general family portrait posture",
+    "FarRightPortraitPose": "use for far-right P002-A placement",
+    "HandsClasped": "gentle guarded posture",
+    "StandingBesideSibling": "relationship reference only; contains another person and should not be used as a solo identity lock",
+    "SeatedAtTable": "possible family table coverage",
+    "HoldingPhoto": "reaction coverage if Claire handles a photo",
+    "Walking": "slow indoor movement reference"
+  }
+}
+

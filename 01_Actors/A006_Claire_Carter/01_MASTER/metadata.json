@@ -1,0 +1,27 @@
+{
+  "actor_id": "A006",
+  "name": "Claire Carter",
+  "status": "VISUAL_IDENTITY_LOCKED",
+  "source_image": "A006_VISUAL_IDENTITY_LOCKED_v1.png",
+  "locked_anchors": [
+    "deep brown medium-length soft wavy hair with side part",
+    "hazel-brown eyes",
+    "soft heart-shaped face",
+    "straight nose",
+    "slim natural build",
+    "pale gray-blue knitted cardigan",
+    "white scoop-neck blouse",
+    "dark indigo jeans",
+    "simple dark ankle boots"
+  ],
+  "avoid": [
+    "glamour styling",
+    "mysterious villain styling",
+    "horror makeup",
+    "exaggerated emotion",
+    "changed hair",
+    "changed outfit",
+    "changed age"
+  ]
+}
+
