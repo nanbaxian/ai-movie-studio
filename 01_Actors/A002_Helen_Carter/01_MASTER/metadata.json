@@ -1,0 +1,28 @@
+{
+  "actor_id": "A002",
+  "name": "Helen Carter",
+  "status": "VISUAL_IDENTITY_LOCKED",
+  "source_image": "A002_VISUAL_IDENTITY_LOCKED_v1.png",
+  "locked_anchors": [
+    "deep brown short bob hair tucked slightly behind one ear",
+    "warm brown eyes",
+    "soft oval face",
+    "gentle tired lower lids",
+    "small faint smile lines",
+    "average build",
+    "dusty rose cardigan",
+    "ivory crew-neck blouse",
+    "dark navy trousers",
+    "simple beige flats"
+  ],
+  "avoid": [
+    "glamour styling",
+    "villain styling",
+    "horror makeup",
+    "exaggerated emotion",
+    "changed hair",
+    "changed outfit",
+    "changed age"
+  ]
+}
+

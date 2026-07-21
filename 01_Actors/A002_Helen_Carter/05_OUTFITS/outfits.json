@@ -1,0 +1,19 @@
+{
+  "status": "LOCKED_PHASE1",
+  "available": [
+    "A002-O01"
+  ],
+  "outfits": {
+    "A002-O01": {
+      "label": "Family portrait mother outfit",
+      "items": [
+        "dusty rose cardigan",
+        "ivory crew-neck blouse",
+        "dark navy trousers",
+        "simple beige flats"
+      ],
+      "rule": "Use for all EP001 Helen assets and family portrait variants unless a later episode explicitly overrides it."
+    }
+  }
+}
+

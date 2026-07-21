@@ -1,0 +1,26 @@
+{
+  "status": "COMPLETE_EP001",
+  "available": [
+    "Standing.png",
+    "FamilyPortraitPose.png",
+    "HandsClasped.png",
+    "StandingBesideChild.png",
+    "SeatedAtTable.png",
+    "HoldingPhoto.png",
+    "LookingAside.png",
+    "Walking.png"
+  ],
+  "source_sheet": "../A002_ep001_angle_action_preview.png",
+  "rule": "All action references must preserve A002 locked identity and A002-O01 outfit.",
+  "notes": {
+    "Standing": "neutral full-body posture",
+    "FamilyPortraitPose": "use for P002 family portrait mother position",
+    "HandsClasped": "gentle guarded mother posture",
+    "StandingBesideChild": "standing beside an implied child for family grouping",
+    "SeatedAtTable": "possible family table coverage",
+    "HoldingPhoto": "reaction coverage if Helen handles a photo",
+    "LookingAside": "quiet anxiety or avoidance",
+    "Walking": "slow indoor movement reference"
+  }
+}
+
