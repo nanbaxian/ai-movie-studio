@@ -10,6 +10,7 @@ Carter Family
 - A002 Helen Carter：母亲
 - A005 Rose Carter：奶奶
 - A001 Emily Carter：女儿 / 本集主角
+- A006 Claire Carter：第一位被照片抹除的女性 / Emily 的姐姐或近亲
 - A008 Noah Carter：弟弟
 - A009 Unknown Man：最早照片里的陌生男人，不被家人承认或记得
 
@@ -33,7 +34,7 @@ H001 Suburban House
 3. Rose Carter
 4. Emily Carter
 5. Noah Carter
-6. Missing Woman / later variant subject
+6. Claire Carter
 
 最早七人版本：
 
@@ -42,8 +43,8 @@ Unknown Man 站在照片中央，其他家庭成员位置尽量不变。
 ## 照片变体
 
 - Photo A：六人完整家庭照
-- Photo B：少一人，最右侧女性消失
-- Photo C：少两人，最右侧女性和 Noah 消失
+- Photo B：少一人，Claire 消失
+- Photo C：少两人，Claire 和 Noah 消失
 - Photo D：七人最早版本，中央多出 Unknown Man
 - Photo E：最终版本，Emily 从照片中消失
 
@@ -53,4 +54,3 @@ Unknown Man 站在照片中央，其他家庭成员位置尽量不变。
 - 人物站位不能因变体大幅移动
 - 消失人物的位置不能留下明显修图痕迹
 - 其他人物不能露出“知道有人消失”的表情，照片必须像原本就这样拍摄
-

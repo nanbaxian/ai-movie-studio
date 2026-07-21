@@ -1,0 +1,73 @@
+{
+  "family_id": "F001",
+  "family_name": "Carter Family",
+  "status": "DRAFT_LOCKED_FOR_EP001",
+  "members": [
+    {
+      "actor_id": "A003",
+      "name": "David Carter",
+      "relationship_to_emily": "father",
+      "portrait_position": 1,
+      "memory_state_ep001": "remembers current family version only"
+    },
+    {
+      "actor_id": "A002",
+      "name": "Helen Carter",
+      "relationship_to_emily": "mother",
+      "portrait_position": 2,
+      "memory_state_ep001": "remembers current family version only"
+    },
+    {
+      "actor_id": "A005",
+      "name": "Rose Carter",
+      "relationship_to_emily": "grandmother",
+      "portrait_position": 3,
+      "memory_state_ep001": "knows more than she admits"
+    },
+    {
+      "actor_id": "A001",
+      "name": "Emily Carter",
+      "relationship_to_emily": "self",
+      "portrait_position": 4,
+      "memory_state_ep001": "notices the anomaly"
+    },
+    {
+      "actor_id": "A008",
+      "name": "Noah Carter",
+      "relationship_to_emily": "younger brother",
+      "portrait_position": 5,
+      "memory_state_ep001": "erased in P002-C"
+    },
+    {
+      "actor_id": "A006",
+      "name": "Claire Carter",
+      "relationship_to_emily": "older sister or close female relative",
+      "portrait_position": 6,
+      "memory_state_ep001": "erased in P002-B"
+    },
+    {
+      "actor_id": "A009",
+      "name": "Unknown Man",
+      "relationship_to_emily": "unknown / anomaly source",
+      "portrait_position": "center in P002-D only",
+      "memory_state_ep001": "not remembered by the family"
+    }
+  ],
+  "portrait_rules": {
+    "p002_master_order": [
+      "A003",
+      "A002",
+      "A005",
+      "A001",
+      "A008",
+      "A006"
+    ],
+    "p002_d_additional_actor": "A009",
+    "continuity": [
+      "Keep background, lens, lighting, grain, and pose family consistent across variants.",
+      "Removed people must not leave obvious empty space or cloning artifacts.",
+      "Remaining family members must look unaware inside the photo."
+    ]
+  }
+}
+
