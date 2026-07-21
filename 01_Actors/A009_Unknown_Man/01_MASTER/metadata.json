@@ -1,0 +1,28 @@
+{
+  "actor_id": "A009",
+  "name": "Unknown Man",
+  "status": "VISUAL_IDENTITY_LOCKED",
+  "source_image": "A009_VISUAL_IDENTITY_LOCKED_v1.png",
+  "locked_anchors": [
+    "dark brown short side-parted old-fashioned hair",
+    "pale gray-green eyes",
+    "long narrow face with high cheekbones",
+    "clean-shaven face",
+    "thin lips with almost no smile",
+    "slightly sunken under-eye shadows",
+    "vintage dark charcoal suit",
+    "white dress shirt",
+    "muted burgundy tie",
+    "black dress shoes"
+  ],
+  "avoid": [
+    "monster features",
+    "horror makeup",
+    "blood or wounds",
+    "villain grin",
+    "changed hair",
+    "changed outfit",
+    "changed age"
+  ]
+}
+

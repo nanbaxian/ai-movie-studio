@@ -1,0 +1,32 @@
+{
+  "actor_id": "A009",
+  "name": "Unknown Man",
+  "status": "VISUAL_IDENTITY_LOCKED",
+  "version": "v1",
+  "project": "EP001",
+  "family_id": "F001",
+  "outfit_code": "A009-O01",
+  "visual_age": 45,
+  "height_reference_cm": 183,
+  "eye_color": "pale gray-green",
+  "hair_color": "dark brown",
+  "hair_length": "short, side-parted, slightly old-fashioned",
+  "body_type": "tall, lean, naturally proportioned",
+  "identity_marks": [
+    "long narrow face with high cheekbones",
+    "clean-shaven face",
+    "thin lips with almost no smile",
+    "slightly sunken under-eye shadows",
+    "calm direct stare",
+    "unnaturally still posture"
+  ],
+  "locked_assets": {
+    "master_face": "01_MASTER/A009_MASTER_FACE_LOCKED.png",
+    "visual_board": "01_MASTER/A009_VISUAL_IDENTITY_LOCKED_v1.png",
+    "front": "02_REFERENCE/FRONT.png",
+    "left45": "02_REFERENCE/LEFT45.png",
+    "right45": "02_REFERENCE/RIGHT45.png",
+    "front_full": "02_REFERENCE/FRONT_FULL.png"
+  }
+}
+

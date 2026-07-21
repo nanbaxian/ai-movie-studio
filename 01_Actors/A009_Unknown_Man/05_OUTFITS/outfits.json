@@ -1,0 +1,19 @@
+{
+  "status": "LOCKED_PHASE1",
+  "available": [
+    "A009-O01"
+  ],
+  "outfits": {
+    "A009-O01": {
+      "label": "Earliest family portrait suit",
+      "items": [
+        "vintage dark charcoal suit",
+        "white dress shirt",
+        "muted burgundy tie",
+        "black dress shoes"
+      ],
+      "rule": "Use for EP001 P002-D and any Unknown Man appearance unless a later episode explicitly overrides it."
+    }
+  }
+}
+

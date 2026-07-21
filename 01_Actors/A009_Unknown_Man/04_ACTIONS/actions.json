@@ -1,0 +1,26 @@
+{
+  "status": "COMPLETE_EP001",
+  "available": [
+    "Standing.png",
+    "StillHandsAtSides.png",
+    "CenteredPortraitPose.png",
+    "DirectCameraStare.png",
+    "LookingDown.png",
+    "TurningToCamera.png",
+    "HandsClasped.png",
+    "HalfShadowPortrait.png"
+  ],
+  "source_sheet": "../A009_ep001_angle_action_preview.png",
+  "rule": "All action references must preserve A009 locked identity and A009-O01 outfit.",
+  "notes": {
+    "Standing": "neutral full-body posture",
+    "StillHandsAtSides": "unnaturally still standing pose",
+    "CenteredPortraitPose": "use for P002-D earliest family photo center placement",
+    "DirectCameraStare": "close reveal pose for photo detail",
+    "LookingDown": "reserved alternate coverage",
+    "TurningToCamera": "subtle movement implication if later animated",
+    "HandsClasped": "formal old-photo posture",
+    "HalfShadowPortrait": "mood reference for supernatural implication without monster styling"
+  }
+}
+

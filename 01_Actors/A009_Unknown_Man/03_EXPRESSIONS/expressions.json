@@ -1,0 +1,34 @@
+{
+  "status": "COMPLETE_PHASE1",
+  "available": [
+    "Neutral.png",
+    "FormalSmile.png",
+    "DirectStare.png",
+    "Secretive.png",
+    "Suspicious.png",
+    "ColdCalm.png",
+    "AlmostConcerned.png",
+    "LookingDown.png",
+    "LookingAside.png",
+    "BlankUnease.png",
+    "SilentWarning.png",
+    "UnnaturalStillness.png"
+  ],
+  "source_sheet": "../A009_expression_action_sheet_v1.png",
+  "rule": "All expression references must preserve A009 locked identity and A009-O01 outfit.",
+  "notes": {
+    "Neutral": "ordinary old family portrait expression",
+    "FormalSmile": "faint formal portrait smile, plausible but restrained",
+    "DirectStare": "camera-facing stare for P002-D reveal",
+    "Secretive": "knows more than the family remembers",
+    "Suspicious": "watching from inside the photo",
+    "ColdCalm": "calm without warmth",
+    "AlmostConcerned": "nearly human concern, still ambiguous",
+    "LookingDown": "reserved, controlled",
+    "LookingAside": "subtle off-camera awareness",
+    "BlankUnease": "emotionally unreadable",
+    "SilentWarning": "warning without visible threat",
+    "UnnaturalStillness": "the core anomaly expression"
+  }
+}
+
