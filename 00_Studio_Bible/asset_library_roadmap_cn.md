@@ -10,8 +10,8 @@ This file is the current source of truth for EP001 asset execution. If older doc
 1. Complete F001 Carter Family actors
 2. Complete H001 four core locations
 3. Complete P001-P006 core props
-4. Build P002_MASTER six-person family portrait
-5. Derive P002-A/B/C/D/E from P002_MASTER
+4. Build P002_MASTER earliest seven-person origin family portrait
+5. Derive P002-D/A/B/C/E cumulatively from P002_MASTER without moving remaining people
 6. Generate EP001 twelve storyboard / shot images
 7. Move to image animation, voice, edit, and publish
 ```
@@ -59,7 +59,7 @@ None. F001 Carter Family actors are complete for EP001.
 | Prop ID | Prop | Required States | Status |
 | --- | --- | --- | --- |
 | P001 | Old Photo Album | Closed, Open, Spread, Holding, Hidden Pocket | complete |
-| P002 | Family Portrait | Master, A, B, C, D, E, Back Writing | complete |
+| P002 | Family Portrait | Master, D, A, B, C, E, Back Writing | final E pending remake |
 | P003 | Smartphone | Gallery, Zoom, Glitch, Handheld, Table | complete with placeholder screen content |
 | P004 | Wooden Table | Empty, Album Setup, Photo Layout, Phone Compare | complete with placeholder photo content |
 | P005 | Desk Lamp | Off, Warm On, Night Flicker, Table Light | complete |
@@ -81,18 +81,22 @@ Required relationship records:
 Build only after all P002 actors are complete:
 
 ```text
-David | Helen | Rose | Emily | Noah | Claire
+David | Helen | Rose | Emily | Unknown Man | Noah | Claire
 ```
 
-P002-D earliest version adds:
+P002 disappearance chain:
 
 ```text
-Unknown Man centered
+P002-D / MASTER: David | Helen | Rose | Emily | Unknown Man | Noah | Claire
+P002-A: David | Helen | Rose | Emily | Noah | Claire
+P002-B: David | Helen | Rose | Emily | Noah
+P002-C: David | Helen | Rose | Emily
+P002-E: David | Helen | Rose
 ```
 
 Rule:
 
 ```text
-All P002 variants must be edited from the same master composition.
-Do not regenerate each variant independently.
+All P002 variants must be edited cumulatively from the same earliest seven-person composition.
+Remaining people should keep their approximate original positions; do not slide the family together.
 ```

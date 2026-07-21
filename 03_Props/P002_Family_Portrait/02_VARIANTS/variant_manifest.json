@@ -1,32 +1,15 @@
 {
-  "status": "LOCKED_EP001_P002_VARIANTS_COMPLETE",
+  "status": "LOCKED_EP001_P002_CUMULATIVE_VARIANTS_PARTIAL",
   "master": "../01_MASTER/P002_MASTER.png",
+  "origin": "../01_MASTER/P002_ORIGIN_SEVEN_PERSON.png",
   "identity_reference": "../01_MASTER/P002_identity_reference_grid.png",
-  "rule": "All variants are derived from P002_MASTER and must read as the same printed photo being rewritten.",
+  "rule": "P002_MASTER is the earliest seven-person origin photo. Every later variant must be derived cumulatively from that origin, with remaining people kept at their approximate original coordinates. Do not recompose or slide the family together after someone disappears.",
   "variants": [
     {
       "id": "P002_MASTER",
       "file": "../01_MASTER/P002_MASTER.png",
-      "role": "six-person master portrait",
-      "people": ["David", "Helen", "Rose", "Emily", "Noah", "Claire"]
-    },
-    {
-      "id": "P002-A",
-      "file": "P002-A.png",
-      "role": "complete six-person version",
-      "people": ["David", "Helen", "Rose", "Emily", "Noah", "Claire"]
-    },
-    {
-      "id": "P002-B",
-      "file": "P002-B.png",
-      "role": "Claire removed",
-      "people": ["David", "Helen", "Rose", "Emily", "Noah"]
-    },
-    {
-      "id": "P002-C",
-      "file": "P002-C.png",
-      "role": "Claire and Noah removed",
-      "people": ["David", "Helen", "Rose", "Emily"]
+      "role": "earliest seven-person origin portrait",
+      "people": ["David", "Helen", "Rose", "Emily", "Unknown Man", "Noah", "Claire"]
     },
     {
       "id": "P002-D",
@@ -35,10 +18,29 @@
       "people": ["David", "Helen", "Rose", "Emily", "Unknown Man", "Noah", "Claire"]
     },
     {
+      "id": "P002-A",
+      "file": "P002-A.png",
+      "role": "Unknown Man removed; six-person family version",
+      "people": ["David", "Helen", "Rose", "Emily", "Noah", "Claire"]
+    },
+    {
+      "id": "P002-B",
+      "file": "P002-B.png",
+      "role": "Unknown Man and Claire removed",
+      "people": ["David", "Helen", "Rose", "Emily", "Noah"]
+    },
+    {
+      "id": "P002-C",
+      "file": "P002-C.png",
+      "role": "Unknown Man, Claire, and Noah removed",
+      "people": ["David", "Helen", "Rose", "Emily"]
+    },
+    {
       "id": "P002-E",
       "file": "P002-E.png",
-      "role": "Emily removed final version",
-      "people": ["David", "Helen", "Rose", "Noah", "Claire"]
+      "role": "Unknown Man, Claire, Noah, and Emily removed",
+      "people": ["David", "Helen", "Rose"],
+      "status": "PENDING_REMAKE_FROM_P002-C"
     },
     {
       "id": "BACK_WRITING",
@@ -48,9 +50,9 @@
     }
   ],
   "continuity_notes": [
-    "P002-D uses the locked order David, Helen, Rose, Emily, Unknown Man, Noah, Claire.",
-    "P002-B, P002-C, and P002-E must not show empty gaps or visible removal marks.",
-    "Phone and table placeholder states should be replaced or composited with these approved variants."
+    "The correct disappearance chain is D/origin: 7 people -> A: 6 -> B: 5 -> C: 4 -> E: 3.",
+    "Remaining people should keep their approximate positions from the seven-person origin photo.",
+    "Natural empty wall/background space is allowed and preferred after removals.",
+    "Any generated image that reintroduces Unknown Man after P002-A, removes the wrong family member, or slides the family together is invalid and must not be saved as a formal variant."
   ]
 }
-

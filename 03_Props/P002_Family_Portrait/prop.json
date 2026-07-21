@@ -1,14 +1,15 @@
 {
   "prop_id": "P002",
   "name": "Family Portrait",
-  "status": "P002_MASTER_AND_VARIANTS_COMPLETE",
+  "status": "P002_CUMULATIVE_MASTER_LOCKED_FINAL_E_PENDING",
   "project": "EP001",
-  "locked_rule": "All variants must be derived from P002_MASTER, not independently regenerated.",
+  "locked_rule": "P002_MASTER is the earliest seven-person origin. Later variants must remove people cumulatively while preserving remaining positions.",
   "master_order": [
     "David",
     "Helen",
     "Rose",
     "Emily",
+    "Unknown Man",
     "Noah",
     "Claire"
   ],
