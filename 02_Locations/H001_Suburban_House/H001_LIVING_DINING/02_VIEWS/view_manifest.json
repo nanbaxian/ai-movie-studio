@@ -1,0 +1,47 @@
+{
+  "status": "LOCKED_EP001_LOCATION_VIEWS_COMPLETE",
+  "source_sheet": "../H001_LIVING_DINING_view_sheet_v1.png",
+  "views": [
+    {
+      "id": "FRONT",
+      "file": "FRONT.png",
+      "role": "front view toward dining table and family photo wall"
+    },
+    {
+      "id": "LEFT45",
+      "file": "LEFT45.png",
+      "role": "left 45-degree view connecting dining table and sofa area"
+    },
+    {
+      "id": "RIGHT45",
+      "file": "RIGHT45.png",
+      "role": "right 45-degree view with dining table foreground"
+    },
+    {
+      "id": "WIDE",
+      "file": "WIDE.png",
+      "role": "wide establishing view of living and dining connection"
+    },
+    {
+      "id": "EMPTY_DAY",
+      "file": "EMPTY_DAY.png",
+      "role": "empty daytime table surface for compositing props"
+    },
+    {
+      "id": "EMPTY_NIGHT",
+      "file": "EMPTY_NIGHT.png",
+      "role": "empty nighttime table surface with warm lamp and blue-gray shadows"
+    },
+    {
+      "id": "PROP_PLACEMENT",
+      "file": "PROP_PLACEMENT.png",
+      "role": "table layout reference for album, photos, and smartphone"
+    }
+  ],
+  "continuity_rules": [
+    "Use the same wooden dining table as the main investigation surface.",
+    "Keep background family photos indistinct unless a shot calls for detail.",
+    "Do not change wall color, table style, lamp position, or general furniture layout across EP001."
+  ]
+}
+

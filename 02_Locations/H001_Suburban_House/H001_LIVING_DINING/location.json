@@ -1,0 +1,47 @@
+{
+  "location_id": "H001-LIVING-DINING",
+  "parent_location": "H001_Suburban_House",
+  "name": "Carter Living / Dining Room",
+  "status": "LOCATION_VIEWS_COMPLETE",
+  "project": "EP001",
+  "visual_style": "realistic North American suburban family home",
+  "locked_anchors": [
+    "medium-toned wooden dining table",
+    "warm beige walls",
+    "dark wood sideboard or low cabinet",
+    "indistinct family photo wall",
+    "soft fabric sofa partially visible",
+    "window with muted curtains",
+    "warm table lamp or floor lamp",
+    "subtle family clutter"
+  ],
+  "episode_usage": {
+    "EP001": [
+      "Shot 01",
+      "Shot 02",
+      "Shot 03",
+      "Shot 04",
+      "Shot 05",
+      "Shot 09"
+    ]
+  },
+  "required_views": [
+    "FRONT.png",
+    "LEFT45.png",
+    "RIGHT45.png",
+    "WIDE.png",
+    "EMPTY_DAY.png",
+    "EMPTY_NIGHT.png",
+    "PROP_PLACEMENT.png"
+  ],
+  "locked_assets": {
+    "master_view_sheet": "01_MASTER/H001_LIVING_DINING_MASTER_VIEW_v1.png",
+    "front": "02_VIEWS/FRONT.png",
+    "left45": "02_VIEWS/LEFT45.png",
+    "right45": "02_VIEWS/RIGHT45.png",
+    "wide": "02_VIEWS/WIDE.png",
+    "empty_day": "02_VIEWS/EMPTY_DAY.png",
+    "empty_night": "02_VIEWS/EMPTY_NIGHT.png",
+    "prop_placement": "02_VIEWS/PROP_PLACEMENT.png"
+  }
+}
