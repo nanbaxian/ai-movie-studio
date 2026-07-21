@@ -1,0 +1,28 @@
+{
+  "actor_id": "A003",
+  "name": "David Carter",
+  "status": "VISUAL_IDENTITY_LOCKED",
+  "source_image": "A003_VISUAL_IDENTITY_LOCKED_v1.png",
+  "locked_anchors": [
+    "dark brown short hair slightly thinning at temples",
+    "brown eyes",
+    "rectangular face with firm jaw",
+    "light stubble",
+    "mild forehead lines",
+    "average build",
+    "dark forest-green crew-neck sweater",
+    "light blue collared shirt underneath",
+    "dark charcoal trousers",
+    "brown leather casual shoes"
+  ],
+  "avoid": [
+    "heroic posing",
+    "villain styling",
+    "horror makeup",
+    "fashion model styling",
+    "changed hair",
+    "changed outfit",
+    "changed age"
+  ]
+}
+

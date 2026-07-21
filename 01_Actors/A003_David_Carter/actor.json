@@ -1,0 +1,47 @@
+{
+  "actor_id": "A003",
+  "name": "David Carter",
+  "status": "VISUAL_IDENTITY_LOCKED",
+  "version": "v1",
+  "project": "EP001",
+  "family_id": "F001",
+  "outfit_code": "A003-O01",
+  "role": "father / left-side family portrait anchor",
+  "visual_age": 46,
+  "height_reference_cm": 178,
+  "eye_color": "brown",
+  "hair_color": "dark brown",
+  "hair_length": "short, neat, slightly thinning at temples",
+  "body_type": "average build, naturally proportioned",
+  "identity_marks": [
+    "rectangular face with firm jaw",
+    "light stubble",
+    "mild forehead lines",
+    "reserved father presence"
+  ],
+  "locked_assets": {
+    "master_face": "01_MASTER/A003_MASTER_FACE_LOCKED.png",
+    "visual_board": "01_MASTER/A003_VISUAL_IDENTITY_LOCKED_v1.png",
+    "front": "02_REFERENCE/FRONT.png",
+    "left45": "02_REFERENCE/LEFT45.png",
+    "right45": "02_REFERENCE/RIGHT45.png",
+    "front_full": "02_REFERENCE/FRONT_FULL.png"
+  },
+  "master_assets": {
+    "visual_identity": "01_MASTER/A003_VISUAL_IDENTITY_LOCKED_v1.png",
+    "multi_angle_sheet": "A003_side_back_props_sheet_v1.png",
+    "expression_action_sheet": "A003_expression_action_sheet_v1.png",
+    "ep001_action_sheet": "A003_ep001_angle_action_preview.png",
+    "preview": "A003_phase1_complete_preview.png"
+  },
+  "episode_usage": {
+    "EP001": [
+      "P002-A family portrait",
+      "P002-B continuity variant",
+      "P002-C continuity variant",
+      "P002-D earliest family portrait",
+      "P002-E final variant"
+    ]
+  }
+}
+

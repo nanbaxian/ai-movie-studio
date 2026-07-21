@@ -1,0 +1,34 @@
+{
+  "status": "COMPLETE_PHASE1",
+  "available": [
+    "Neutral.png",
+    "FamilyPhotoSmile.png",
+    "Reserved.png",
+    "Concerned.png",
+    "Confused.png",
+    "Suspicious.png",
+    "Tired.png",
+    "LookingDown.png",
+    "LookingAside.png",
+    "Protective.png",
+    "Distant.png",
+    "BlankFamilyPhotoStare.png"
+  ],
+  "source_sheet": "../A003_expression_action_sheet_v1.png",
+  "rule": "All expression references must preserve A003 locked identity and A003-O01 outfit.",
+  "notes": {
+    "Neutral": "ordinary resting face",
+    "FamilyPhotoSmile": "mild family portrait smile",
+    "Reserved": "quiet and emotionally contained",
+    "Concerned": "worried but understated",
+    "Confused": "subtle uncertainty",
+    "Suspicious": "careful side suspicion",
+    "Tired": "subtle parental fatigue",
+    "LookingDown": "downcast thought",
+    "LookingAside": "off-camera attention",
+    "Protective": "paternal concern without aggression",
+    "Distant": "emotionally removed",
+    "BlankFamilyPhotoStare": "uncanny stillness for photo variants"
+  }
+}
+

@@ -1,0 +1,26 @@
+{
+  "status": "COMPLETE_EP001",
+  "available": [
+    "Standing.png",
+    "FamilyPortraitPose.png",
+    "HandsInPockets.png",
+    "StandingBehindFamily.png",
+    "SeatedAtTable.png",
+    "HoldingPhoto.png",
+    "LookingAside.png",
+    "Walking.png"
+  ],
+  "source_sheet": "../A003_ep001_angle_action_preview.png",
+  "rule": "All action references must preserve A003 locked identity and A003-O01 outfit.",
+  "notes": {
+    "Standing": "neutral full-body posture",
+    "FamilyPortraitPose": "use for P002 family portrait left anchor",
+    "HandsInPockets": "casual reserved father posture",
+    "StandingBehindFamily": "slightly behind an implied family member",
+    "SeatedAtTable": "possible family table coverage",
+    "HoldingPhoto": "reaction coverage if David handles a photo",
+    "LookingAside": "subtle suspicion or concern",
+    "Walking": "slow indoor movement reference"
+  }
+}
+

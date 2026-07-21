@@ -1,0 +1,19 @@
+{
+  "status": "LOCKED_PHASE1",
+  "available": [
+    "A003-O01"
+  ],
+  "outfits": {
+    "A003-O01": {
+      "label": "Family portrait father outfit",
+      "items": [
+        "dark forest-green crew-neck sweater",
+        "light blue collared shirt underneath",
+        "dark charcoal trousers",
+        "brown leather casual shoes"
+      ],
+      "rule": "Use for all EP001 David assets and family portrait variants unless a later episode explicitly overrides it."
+    }
+  }
+}
+
