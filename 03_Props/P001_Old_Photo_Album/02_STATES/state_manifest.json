@@ -1,0 +1,12 @@
+{
+  "status": "LOCKED_EP001_PROP_STATES_COMPLETE",
+  "source_sheet": "../P001_state_sheet_v1.png",
+  "states": [
+    { "id": "CLOSED", "file": "CLOSED.png", "role": "closed worn leather album" },
+    { "id": "OPEN", "file": "OPEN.png", "role": "open album with aged pages" },
+    { "id": "SPREAD", "file": "SPREAD.png", "role": "spread album with photo sleeves" },
+    { "id": "HOLDING", "file": "HOLDING.png", "role": "album held by hands for movement shots" },
+    { "id": "HIDDEN_POCKET", "file": "HIDDEN_POCKET.png", "role": "hidden pocket reveal for earliest photo" }
+  ]
+}
+

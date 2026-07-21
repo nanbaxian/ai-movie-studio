@@ -1,0 +1,13 @@
+{
+  "status": "LOCKED_EP001_PROP_STATES_COMPLETE",
+  "source_sheet": "../P003_state_sheet_v1.png",
+  "states": [
+    { "id": "GALLERY", "file": "GALLERY.png", "role": "photo gallery placeholder state" },
+    { "id": "ZOOM", "file": "ZOOM.png", "role": "zoomed family photo placeholder state" },
+    { "id": "GLITCH", "file": "GLITCH.png", "role": "screen glitch state" },
+    { "id": "HANDHELD", "file": "HANDHELD.png", "role": "phone held in hands" },
+    { "id": "TABLE", "file": "TABLE.png", "role": "phone resting on table" }
+  ],
+  "note": "Replace blurred placeholder screen content with approved P002 assets after P002_MASTER is complete."
+}
+

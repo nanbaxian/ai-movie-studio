@@ -1,0 +1,11 @@
+{
+  "status": "LOCKED_EP001_PROP_STATES_COMPLETE",
+  "source_sheet": "../P005_state_sheet_v1.png",
+  "states": [
+    { "id": "OFF", "file": "OFF.png", "role": "lamp off" },
+    { "id": "WARM_ON", "file": "WARM_ON.png", "role": "steady warm lamp on" },
+    { "id": "NIGHT_FLICKER", "file": "NIGHT_FLICKER.png", "role": "subtle uneven night flicker" },
+    { "id": "TABLE_LIGHT", "file": "TABLE_LIGHT.png", "role": "warm spill on nearby tabletop" }
+  ]
+}
+

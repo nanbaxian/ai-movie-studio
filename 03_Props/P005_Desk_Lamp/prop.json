@@ -1,0 +1,20 @@
+{
+  "prop_id": "P005",
+  "name": "Desk Lamp",
+  "status": "PROP_STATES_COMPLETE",
+  "project": "EP001",
+  "locked_anchors": [
+    "ordinary warm table or bedside lamp",
+    "cream fabric shade",
+    "aged dark metal or wood base",
+    "soft amber glow",
+    "matches H001-LIVING-DINING and H001-ROSE-BEDROOM practical lighting"
+  ],
+  "required_states": [
+    "OFF.png",
+    "WARM_ON.png",
+    "NIGHT_FLICKER.png",
+    "TABLE_LIGHT.png"
+  ]
+}
+

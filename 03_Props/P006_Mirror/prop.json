@@ -1,0 +1,20 @@
+{
+  "prop_id": "P006",
+  "name": "Mirror",
+  "status": "PROP_STATES_COMPLETE",
+  "project": "EP001",
+  "locked_anchors": [
+    "ordinary hallway or standing mirror",
+    "aged dark wood or simple brass frame",
+    "slightly cool reflection",
+    "connected to H001-HALLWAY final mirror area",
+    "no ornate supernatural styling"
+  ],
+  "required_states": [
+    "NORMAL.png",
+    "EMPTY.png",
+    "EMILY_REFLECTION.png",
+    "FINAL.png"
+  ]
+}
+

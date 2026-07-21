@@ -1,0 +1,19 @@
+{
+  "prop_id": "P004",
+  "name": "Wooden Table",
+  "status": "PROP_STATES_COMPLETE",
+  "project": "EP001",
+  "locked_anchors": [
+    "medium-toned wooden dining table",
+    "visible natural grain",
+    "ordinary suburban family table",
+    "matches H001-LIVING-DINING table surface"
+  ],
+  "required_states": [
+    "EMPTY.png",
+    "ALBUM_SETUP.png",
+    "PHOTO_LAYOUT.png",
+    "PHONE_COMPARE.png"
+  ]
+}
+

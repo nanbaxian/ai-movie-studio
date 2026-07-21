@@ -1,0 +1,12 @@
+{
+  "status": "LOCKED_EP001_PROP_STATES_COMPLETE",
+  "source_sheet": "../P004_state_sheet_v1.png",
+  "states": [
+    { "id": "EMPTY", "file": "EMPTY.png", "role": "empty table surface" },
+    { "id": "ALBUM_SETUP", "file": "ALBUM_SETUP.png", "role": "old album placed on table" },
+    { "id": "PHOTO_LAYOUT", "file": "PHOTO_LAYOUT.png", "role": "blank photo layout placeholder" },
+    { "id": "PHONE_COMPARE", "file": "PHONE_COMPARE.png", "role": "phone and blank photos comparison placeholder" }
+  ],
+  "note": "Replace blank photo placeholders with approved P002 variants after P002_MASTER is complete."
+}
+

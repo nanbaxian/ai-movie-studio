@@ -1,0 +1,21 @@
+{
+  "prop_id": "P003",
+  "name": "Smartphone",
+  "status": "PROP_STATES_COMPLETE",
+  "project": "EP001",
+  "locked_anchors": [
+    "modern black smartphone",
+    "plain case with no visible brand",
+    "family photo gallery interface",
+    "screen glow used in dark shots",
+    "ordinary personal phone, not futuristic"
+  ],
+  "required_states": [
+    "GALLERY.png",
+    "ZOOM.png",
+    "GLITCH.png",
+    "HANDHELD.png",
+    "TABLE.png"
+  ]
+}
+

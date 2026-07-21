@@ -1,0 +1,25 @@
+{
+  "prop_id": "P002",
+  "name": "Family Portrait",
+  "status": "SPEC_LOCKED_PENDING_P002_MASTER",
+  "project": "EP001",
+  "locked_rule": "All variants must be derived from P002_MASTER, not independently regenerated.",
+  "master_order": [
+    "David",
+    "Helen",
+    "Rose",
+    "Emily",
+    "Noah",
+    "Claire"
+  ],
+  "required_variants": [
+    "P002_MASTER.png",
+    "P002-A.png",
+    "P002-B.png",
+    "P002-C.png",
+    "P002-D.png",
+    "P002-E.png",
+    "BACK_WRITING.png"
+  ]
+}
+

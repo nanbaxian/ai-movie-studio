@@ -58,12 +58,12 @@ None. F001 Carter Family actors are complete for EP001.
 
 | Prop ID | Prop | Required States | Status |
 | --- | --- | --- | --- |
-| P001 | Old Photo Album | Closed, Open, Spread, Holding, Close | text only |
-| P002 | Family Portrait | Master, A, B, C, D, E, Back Writing | text only |
-| P003 | Smartphone | Gallery, Zoom, Handheld, Table | text only |
-| P004 | Wooden Table | Empty, Album Setup, Photo Layout | text only |
-| P005 | Desk Lamp | Off, Warm On, Night Flicker | text only |
-| P006 | Mirror | Normal, Final, Empty, Emily Reflection | text only |
+| P001 | Old Photo Album | Closed, Open, Spread, Holding, Hidden Pocket | complete |
+| P002 | Family Portrait | Master, A, B, C, D, E, Back Writing | spec locked / pending P002_MASTER |
+| P003 | Smartphone | Gallery, Zoom, Glitch, Handheld, Table | complete with placeholder screen content |
+| P004 | Wooden Table | Empty, Album Setup, Photo Layout, Phone Compare | complete with placeholder photo content |
+| P005 | Desk Lamp | Off, Warm On, Night Flicker, Table Light | complete |
+| P006 | Mirror | Normal, Final, Empty, Emily Reflection | complete with placeholder final composite |
 
 ## Phase D: Relationship Library
 

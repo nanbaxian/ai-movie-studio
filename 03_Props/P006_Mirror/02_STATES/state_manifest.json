@@ -1,0 +1,12 @@
+{
+  "status": "LOCKED_EP001_PROP_STATES_COMPLETE",
+  "source_sheet": "../P006_state_sheet_v1.png",
+  "states": [
+    { "id": "NORMAL", "file": "NORMAL.png", "role": "ordinary hallway mirror" },
+    { "id": "EMPTY", "file": "EMPTY.png", "role": "empty hallway reflection" },
+    { "id": "EMILY_REFLECTION", "file": "EMILY_REFLECTION.png", "role": "placeholder Emily reflection state" },
+    { "id": "FINAL", "file": "FINAL.png", "role": "final mirror and photo placeholder state" }
+  ],
+  "note": "Final Emily and P002-E content should be composited from approved actor and P002 assets."
+}
+

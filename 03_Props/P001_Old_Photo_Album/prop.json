@@ -1,0 +1,22 @@
+{
+  "prop_id": "P001",
+  "name": "Old Photo Album",
+  "status": "PROP_STATES_COMPLETE",
+  "project": "EP001",
+  "locked_anchors": [
+    "dark brown worn leather cover",
+    "scuffed corners",
+    "aged thick pages",
+    "clear plastic photo sleeves",
+    "hidden pocket or envelope slot",
+    "ordinary family keepsake, not ornate or supernatural"
+  ],
+  "required_states": [
+    "CLOSED.png",
+    "OPEN.png",
+    "SPREAD.png",
+    "HOLDING.png",
+    "HIDDEN_POCKET.png"
+  ]
+}
+
