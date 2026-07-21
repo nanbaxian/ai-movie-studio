@@ -1,0 +1,45 @@
+{
+  "location_id": "H001-ATTIC",
+  "parent_location": "H001_Suburban_House",
+  "name": "Carter House Attic",
+  "status": "LOCATION_VIEWS_COMPLETE",
+  "project": "EP001",
+  "visual_style": "realistic North American suburban family home",
+  "locked_anchors": [
+    "low sloped attic ceiling",
+    "exposed wooden rafters",
+    "unfinished plywood or plank floor",
+    "dusty cardboard storage boxes",
+    "old family storage bins and cloth-covered objects",
+    "narrow attic access from hallway",
+    "flashlight beam cutting through dust particles",
+    "small hidden photo envelope or album pocket area",
+    "blue-gray darkness beyond the flashlight falloff"
+  ],
+  "episode_usage": {
+    "EP001": [
+      "Shot 10",
+      "Shot 11"
+    ]
+  },
+  "required_views": [
+    "FRONT.png",
+    "LEFT45.png",
+    "RIGHT45.png",
+    "WIDE.png",
+    "EMPTY_NIGHT.png",
+    "FLASHLIGHT.png",
+    "PROP_PLACEMENT.png"
+  ],
+  "locked_assets": {
+    "master_view_sheet": "01_MASTER/H001_ATTIC_MASTER_VIEW_v1.png",
+    "front": "02_VIEWS/FRONT.png",
+    "left45": "02_VIEWS/LEFT45.png",
+    "right45": "02_VIEWS/RIGHT45.png",
+    "wide": "02_VIEWS/WIDE.png",
+    "empty_night": "02_VIEWS/EMPTY_NIGHT.png",
+    "flashlight": "02_VIEWS/FLASHLIGHT.png",
+    "prop_placement": "02_VIEWS/PROP_PLACEMENT.png"
+  }
+}
+

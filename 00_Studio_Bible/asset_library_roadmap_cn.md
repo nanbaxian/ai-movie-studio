@@ -1,5 +1,27 @@
 # Asset Library Roadmap
 
+Status: CANONICAL_EP001_EXECUTION_PLAN
+
+This file is the current source of truth for EP001 asset execution. If older documents or chat notes conflict with this file, follow this file first, then update the older document instead of changing direction from memory.
+
+## Current Locked Order
+
+```text
+1. Complete F001 Carter Family actors
+2. Complete H001 four core locations
+3. Complete P001-P006 core props
+4. Build P002_MASTER six-person family portrait
+5. Derive P002-A/B/C/D/E from P002_MASTER
+6. Generate EP001 twelve storyboard / shot images
+7. Move to image animation, voice, edit, and publish
+```
+
+Canon notes:
+
+- Claire Carter is A006 in the active asset library. Any older A004 Claire reference is legacy and must be corrected when touched.
+- H001 has four core reusable locations for EP001: LIVING-DINING, HALLWAY, ROSE-BEDROOM, ATTIC.
+- The final mirror area is handled as part of H001-HALLWAY plus P006 Mirror, not as a fifth core location unless a later locked revision explicitly changes this.
+
 ## 当前策略
 
 先完成影视资产库，再进入 EP001 镜头生产。
@@ -12,25 +34,25 @@
 | A002 | Helen Carter | mother | complete | Family portrait order |
 | A003 | David Carter | father | complete | Left-side portrait anchor |
 | A005 | Rose Carter | grandmother | complete | Shot 06-07 performance role |
-| A006 | Claire Carter | first erased woman | pending | Right-side Photo A subject |
+| A006 | Claire Carter | first erased woman | complete | Right-side Photo A subject |
 | A008 | Noah Carter | younger brother | complete | Second erased family member |
 | A009 | Unknown Man | anomaly source | complete | P002-D earliest photo |
 
 Next actor task:
 
 ```text
-A006 Claire Carter
+None. F001 Carter Family actors are complete for EP001.
 ```
 
 ## Phase B: H001 Suburban House Location Library
 
 | Location ID | Area | Required Views | Status |
 | --- | --- | --- | --- |
-| H001-LIVING-DINING | living / dining table | Front, Left45, Right45, Wide, Empty, Day, Night | text only |
+| H001-LIVING-DINING | living / dining table | Front, Left45, Right45, Wide, Empty, Day, Night | complete |
 | H001-HALLWAY | hallway | Front, Left45, Right45, Wide, Empty, Night | complete |
 | H001-ROSE-BEDROOM | Rose bedroom | Front, Left45, Right45, Wide, Empty, Day, Night | complete |
-| H001-ATTIC | attic | Front, Left45, Right45, Wide, Empty, Flashlight, Night | text only |
-| H001-MIRROR-AREA | mirror area | Front, Wide, Empty, Normal, Final, Night | text only |
+| H001-ATTIC | attic | Front, Left45, Right45, Wide, Empty, Flashlight, Night | complete |
+| H001-MIRROR-AREA | mirror area | Covered by H001-HALLWAY + P006 Mirror | integrated | Not a fifth core location |
 
 ## Phase C: EP001 Props Library
 

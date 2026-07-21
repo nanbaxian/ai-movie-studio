@@ -1,5 +1,9 @@
 # AI Movie Studio Pipeline
 
+Status: CANONICAL_STUDIO_PIPELINE
+
+Planning rule: asset execution must be driven by checked-in documents, not by chat memory. For EP001, use `00_Studio_Bible/asset_library_roadmap_cn.md` as the live execution checklist. When a plan changes, update that file first.
+
 ## 核心原则
 
 本项目采用 Studio Pipeline 模式，而不是单集临时制作模式。
@@ -130,5 +134,12 @@ EP001 的核心资产是 P002_MASTER 六人全家福。
 - Family portrait style
 - Visual rules
 
-目标是让 EP002 之后的制作成本下降 70% 以上，同时保持角色、场景、道具和世界观一致。
+## EP001 Current Canon Addendum
 
+- Active Claire ID is A006. Older A004 Claire references are legacy and should be corrected when touched.
+- H001 core locations are LIVING-DINING, HALLWAY, ROSE-BEDROOM, and ATTIC.
+- Mirror coverage belongs to H001-HALLWAY plus P006 Mirror unless the roadmap is explicitly revised.
+- Do not generate the 12 final shot images until actors, four core locations, P001-P006, and P002_MASTER/P002 variants are complete.
+- The live checklist is `00_Studio_Bible/asset_library_roadmap_cn.md`.
+
+目标是让 EP002 之后的制作成本下降 70% 以上，同时保持角色、场景、道具和世界观一致。
