@@ -1,0 +1,47 @@
+{
+  "status": "LOCKED_EP001_LOCATION_VIEWS_COMPLETE",
+  "source_sheet": "../H001_ROSE_BEDROOM_view_sheet_v1.png",
+  "views": [
+    {
+      "id": "FRONT",
+      "file": "FRONT.png",
+      "role": "front view toward Rose's bed, nightstand, lamp, and old family photos"
+    },
+    {
+      "id": "LEFT45",
+      "file": "LEFT45.png",
+      "role": "left 45-degree view connecting doorway, bed, and bedside table"
+    },
+    {
+      "id": "RIGHT45",
+      "file": "RIGHT45.png",
+      "role": "right 45-degree view emphasizing dresser, photos, and Rose's performance space"
+    },
+    {
+      "id": "WIDE",
+      "file": "WIDE.png",
+      "role": "wide establishing view of the full bedroom layout"
+    },
+    {
+      "id": "EMPTY_DAY",
+      "file": "EMPTY_DAY.png",
+      "role": "empty daytime bedroom plate with soft curtain light"
+    },
+    {
+      "id": "EMPTY_NIGHT",
+      "file": "EMPTY_NIGHT.png",
+      "role": "empty nighttime bedroom plate with warm bedside lamp and blue-gray shadows"
+    },
+    {
+      "id": "PROP_PLACEMENT",
+      "file": "PROP_PLACEMENT.png",
+      "role": "continuity reference for medicine bottles, old photos, lamp, bed, dresser, and doorway"
+    }
+  ],
+  "continuity_rules": [
+    "Keep the bed, nightstand, lamp, medicine props, dresser, doorway, and old photo positions consistent across EP001.",
+    "Use the bedroom as a quiet emotional space, not a haunted or hospital-like room.",
+    "P002 can be held by Emily or Rose in this location, but the room's fixed props should not shift between shots."
+  ]
+}
+

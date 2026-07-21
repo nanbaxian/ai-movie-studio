@@ -1,0 +1,46 @@
+{
+  "location_id": "H001-ROSE-BEDROOM",
+  "parent_location": "H001_Suburban_House",
+  "name": "Rose Carter Bedroom",
+  "status": "LOCATION_VIEWS_COMPLETE",
+  "project": "EP001",
+  "visual_style": "realistic North American suburban family home",
+  "locked_anchors": [
+    "small elderly woman's bedroom",
+    "modest bed with floral or muted quilt",
+    "old wooden nightstand",
+    "warm bedside lamp",
+    "medicine bottles and water glass",
+    "framed old family photos",
+    "dresser or small wooden cabinet",
+    "soft curtains with muted daylight",
+    "slightly crowded but tidy personal objects"
+  ],
+  "episode_usage": {
+    "EP001": [
+      "Shot 06",
+      "Shot 07",
+      "Shot 08"
+    ]
+  },
+  "required_views": [
+    "FRONT.png",
+    "LEFT45.png",
+    "RIGHT45.png",
+    "WIDE.png",
+    "EMPTY_DAY.png",
+    "EMPTY_NIGHT.png",
+    "PROP_PLACEMENT.png"
+  ],
+  "locked_assets": {
+    "master_view_sheet": "01_MASTER/H001_ROSE_BEDROOM_MASTER_VIEW_v1.png",
+    "front": "02_VIEWS/FRONT.png",
+    "left45": "02_VIEWS/LEFT45.png",
+    "right45": "02_VIEWS/RIGHT45.png",
+    "wide": "02_VIEWS/WIDE.png",
+    "empty_day": "02_VIEWS/EMPTY_DAY.png",
+    "empty_night": "02_VIEWS/EMPTY_NIGHT.png",
+    "prop_placement": "02_VIEWS/PROP_PLACEMENT.png"
+  }
+}
+
