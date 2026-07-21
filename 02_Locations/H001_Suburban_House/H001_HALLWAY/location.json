@@ -1,0 +1,45 @@
+{
+  "location_id": "H001-HALLWAY",
+  "parent_location": "H001_Suburban_House",
+  "name": "Carter House Hallway",
+  "status": "LOCATION_VIEWS_COMPLETE",
+  "project": "EP001",
+  "visual_style": "realistic North American suburban family home",
+  "locked_anchors": [
+    "narrow upstairs or central hallway",
+    "warm beige walls matching the rest of H001",
+    "slightly worn wood or carpet runner floor",
+    "old framed family photos along one wall",
+    "simple white trim and ordinary interior doors",
+    "Rose bedroom door as a repeatable side anchor",
+    "attic pull-down hatch or ceiling access at the far end",
+    "low warm wall sconce or spill light from adjacent rooms",
+    "blue-gray darkness collecting at the far end of the corridor"
+  ],
+  "episode_usage": {
+    "EP001": [
+      "Shot 06",
+      "Shot 07",
+      "Shot 08",
+      "Shot 10"
+    ]
+  },
+  "required_views": [
+    "FRONT.png",
+    "LEFT45.png",
+    "RIGHT45.png",
+    "WIDE.png",
+    "EMPTY_NIGHT.png",
+    "PROP_PLACEMENT.png"
+  ],
+  "locked_assets": {
+    "master_view_sheet": "01_MASTER/H001_HALLWAY_MASTER_VIEW_v1.png",
+    "front": "02_VIEWS/FRONT.png",
+    "left45": "02_VIEWS/LEFT45.png",
+    "right45": "02_VIEWS/RIGHT45.png",
+    "wide": "02_VIEWS/WIDE.png",
+    "empty_night": "02_VIEWS/EMPTY_NIGHT.png",
+    "prop_placement": "02_VIEWS/PROP_PLACEMENT.png"
+  }
+}
+

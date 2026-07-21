@@ -1,0 +1,42 @@
+{
+  "status": "LOCKED_EP001_LOCATION_VIEWS_COMPLETE",
+  "source_sheet": "../H001_HALLWAY_view_sheet_v1.png",
+  "views": [
+    {
+      "id": "FRONT",
+      "file": "FRONT.png",
+      "role": "front view down the narrow hallway toward attic access and blue-gray shadow"
+    },
+    {
+      "id": "LEFT45",
+      "file": "LEFT45.png",
+      "role": "left 45-degree view emphasizing the family photo wall and hallway depth"
+    },
+    {
+      "id": "RIGHT45",
+      "file": "RIGHT45.png",
+      "role": "right 45-degree view with Rose bedroom door as a side anchor"
+    },
+    {
+      "id": "WIDE",
+      "file": "WIDE.png",
+      "role": "wide establishing view connecting living room entry, hallway doors, and attic access"
+    },
+    {
+      "id": "EMPTY_NIGHT",
+      "file": "EMPTY_NIGHT.png",
+      "role": "empty nighttime hallway plate for suspense coverage and character compositing"
+    },
+    {
+      "id": "PROP_PLACEMENT",
+      "file": "PROP_PLACEMENT.png",
+      "role": "continuity reference for photo frames, door positions, wall sconce, and attic hatch"
+    }
+  ],
+  "continuity_rules": [
+    "Keep hallway width, wall color, trim, doors, family photo frames, and attic hatch consistent across EP001.",
+    "Use the photo wall as the key visual connector to the family-photo mystery.",
+    "Do not turn the hallway into a luxury, hotel, hospital, or haunted-house corridor."
+  ]
+}
+

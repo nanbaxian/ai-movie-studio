@@ -27,7 +27,7 @@ A006 Claire Carter
 | Location ID | Area | Required Views | Status |
 | --- | --- | --- | --- |
 | H001-LIVING-DINING | living / dining table | Front, Left45, Right45, Wide, Empty, Day, Night | text only |
-| H001-HALLWAY | hallway | Front, Left45, Right45, Wide, Empty, Night | text only |
+| H001-HALLWAY | hallway | Front, Left45, Right45, Wide, Empty, Night | complete |
 | H001-ROSE-BEDROOM | Rose bedroom | Front, Left45, Right45, Wide, Empty, Day, Night | text only |
 | H001-ATTIC | attic | Front, Left45, Right45, Wide, Empty, Flashlight, Night | text only |
 | H001-MIRROR-AREA | mirror area | Front, Wide, Empty, Normal, Final, Night | text only |
@@ -74,4 +74,3 @@ Rule:
 All P002 variants must be edited from the same master composition.
 Do not regenerate each variant independently.
 ```
-
