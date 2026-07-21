@@ -1,7 +1,7 @@
 {
   "prop_id": "P002",
   "name": "Family Portrait",
-  "status": "SPEC_LOCKED_PENDING_P002_MASTER",
+  "status": "P002_MASTER_AND_VARIANTS_COMPLETE",
   "project": "EP001",
   "locked_rule": "All variants must be derived from P002_MASTER, not independently regenerated.",
   "master_order": [
@@ -22,4 +22,3 @@
     "BACK_WRITING.png"
   ]
 }
-

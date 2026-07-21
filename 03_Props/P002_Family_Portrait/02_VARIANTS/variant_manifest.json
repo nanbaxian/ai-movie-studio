@@ -1,0 +1,56 @@
+{
+  "status": "LOCKED_EP001_P002_VARIANTS_COMPLETE",
+  "master": "../01_MASTER/P002_MASTER.png",
+  "identity_reference": "../01_MASTER/P002_identity_reference_grid.png",
+  "rule": "All variants are derived from P002_MASTER and must read as the same printed photo being rewritten.",
+  "variants": [
+    {
+      "id": "P002_MASTER",
+      "file": "../01_MASTER/P002_MASTER.png",
+      "role": "six-person master portrait",
+      "people": ["David", "Helen", "Rose", "Emily", "Noah", "Claire"]
+    },
+    {
+      "id": "P002-A",
+      "file": "P002-A.png",
+      "role": "complete six-person version",
+      "people": ["David", "Helen", "Rose", "Emily", "Noah", "Claire"]
+    },
+    {
+      "id": "P002-B",
+      "file": "P002-B.png",
+      "role": "Claire removed",
+      "people": ["David", "Helen", "Rose", "Emily", "Noah"]
+    },
+    {
+      "id": "P002-C",
+      "file": "P002-C.png",
+      "role": "Claire and Noah removed",
+      "people": ["David", "Helen", "Rose", "Emily"]
+    },
+    {
+      "id": "P002-D",
+      "file": "P002-D.png",
+      "role": "earliest seven-person anomaly version",
+      "people": ["David", "Helen", "Rose", "Emily", "Unknown Man", "Noah", "Claire"]
+    },
+    {
+      "id": "P002-E",
+      "file": "P002-E.png",
+      "role": "Emily removed final version",
+      "people": ["David", "Helen", "Rose", "Noah", "Claire"]
+    },
+    {
+      "id": "BACK_WRITING",
+      "file": "BACK_WRITING.png",
+      "role": "photo back warning text",
+      "text": "When the last person disappears..."
+    }
+  ],
+  "continuity_notes": [
+    "P002-D uses the locked order David, Helen, Rose, Emily, Unknown Man, Noah, Claire.",
+    "P002-B, P002-C, and P002-E must not show empty gaps or visible removal marks.",
+    "Phone and table placeholder states should be replaced or composited with these approved variants."
+  ]
+}
+
