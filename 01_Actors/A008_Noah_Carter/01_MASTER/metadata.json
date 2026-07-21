@@ -1,0 +1,27 @@
+{
+  "actor_id": "A008",
+  "name": "Noah Carter",
+  "status": "VISUAL_IDENTITY_LOCKED",
+  "source_image": "A008_VISUAL_IDENTITY_LOCKED_v1.png",
+  "locked_anchors": [
+    "medium brown short slightly messy hair",
+    "hazel-brown eyes",
+    "round youthful face with soft cheeks",
+    "small straight nose",
+    "slim child build",
+    "muted navy zip hoodie",
+    "light gray T-shirt",
+    "dark casual pants",
+    "worn dark sneakers"
+  ],
+  "avoid": [
+    "adult proportions",
+    "fashion model styling",
+    "horror makeup",
+    "exaggerated emotion",
+    "changed hair",
+    "changed outfit",
+    "changed age"
+  ]
+}
+

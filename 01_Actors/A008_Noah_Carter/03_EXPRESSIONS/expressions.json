@@ -1,0 +1,34 @@
+{
+  "status": "COMPLETE_PHASE1",
+  "available": [
+    "Neutral.png",
+    "FamilyPhotoSmile.png",
+    "Shy.png",
+    "Curious.png",
+    "Concerned.png",
+    "Confused.png",
+    "Afraid.png",
+    "Sad.png",
+    "LookingDown.png",
+    "LookingAside.png",
+    "Tired.png",
+    "BlankFamilyPhotoStare.png"
+  ],
+  "source_sheet": "../A008_expression_action_sheet_v1.png",
+  "rule": "All expression references must preserve A008 locked identity and A008-O01 outfit.",
+  "notes": {
+    "Neutral": "ordinary resting face",
+    "FamilyPhotoSmile": "small family portrait smile",
+    "Shy": "quiet younger-brother shyness",
+    "Curious": "subtle curiosity",
+    "Concerned": "worried but restrained",
+    "Confused": "not understanding the photo anomaly",
+    "Afraid": "controlled fear, no screaming",
+    "Sad": "small sadness, no exaggerated crying",
+    "LookingDown": "downcast and withdrawn",
+    "LookingAside": "subtle off-camera attention",
+    "Tired": "soft fatigue",
+    "BlankFamilyPhotoStare": "uncanny stillness for photo variants"
+  }
+}
+

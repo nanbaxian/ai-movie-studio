@@ -1,0 +1,19 @@
+{
+  "status": "LOCKED_PHASE1",
+  "available": [
+    "A008-O01"
+  ],
+  "outfits": {
+    "A008-O01": {
+      "label": "Family portrait casual outfit",
+      "items": [
+        "muted navy zip hoodie",
+        "light gray T-shirt",
+        "dark casual pants",
+        "worn dark sneakers"
+      ],
+      "rule": "Use for all EP001 Noah assets and family portrait variants unless a later episode explicitly overrides it."
+    }
+  }
+}
+

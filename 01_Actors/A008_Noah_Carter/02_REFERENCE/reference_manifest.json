@@ -1,0 +1,41 @@
+{
+  "status": "LOCKED_EP001_ANGLES_COMPLETE",
+  "references": [
+    {
+      "id": "FRONT",
+      "file": "FRONT.png",
+      "role": "primary front half reference"
+    },
+    {
+      "id": "LEFT45",
+      "file": "LEFT45.png",
+      "role": "left 45 half reference"
+    },
+    {
+      "id": "RIGHT45",
+      "file": "RIGHT45.png",
+      "role": "right 45 half reference"
+    },
+    {
+      "id": "FRONT_FULL",
+      "file": "FRONT_FULL.png",
+      "role": "front full body/outfit/proportion reference"
+    },
+    {
+      "id": "LEFT_SIDE",
+      "file": "LEFT_SIDE.png",
+      "role": "pure left 90-degree side profile"
+    },
+    {
+      "id": "RIGHT_SIDE",
+      "file": "RIGHT_SIDE.png",
+      "role": "pure right 90-degree side profile"
+    },
+    {
+      "id": "BACK",
+      "file": "BACK.png",
+      "role": "pure back view"
+    }
+  ]
+}
+

@@ -1,0 +1,30 @@
+{
+  "actor_id": "A008",
+  "name": "Noah Carter",
+  "status": "VISUAL_IDENTITY_LOCKED",
+  "version": "v1",
+  "project": "EP001",
+  "family_id": "F001",
+  "outfit_code": "A008-O01",
+  "visual_age": 12,
+  "height_reference_cm": 150,
+  "eye_color": "hazel-brown",
+  "hair_color": "medium brown",
+  "hair_length": "short, slightly messy",
+  "body_type": "slim child build, naturally proportioned",
+  "identity_marks": [
+    "round youthful face with soft cheeks",
+    "small straight nose",
+    "slightly shy mouth expression",
+    "quiet sensitive presence"
+  ],
+  "locked_assets": {
+    "master_face": "01_MASTER/A008_MASTER_FACE_LOCKED.png",
+    "visual_board": "01_MASTER/A008_VISUAL_IDENTITY_LOCKED_v1.png",
+    "front": "02_REFERENCE/FRONT.png",
+    "left45": "02_REFERENCE/LEFT45.png",
+    "right45": "02_REFERENCE/RIGHT45.png",
+    "front_full": "02_REFERENCE/FRONT_FULL.png"
+  }
+}
+

@@ -1,0 +1,45 @@
+{
+  "actor_id": "A008",
+  "name": "Noah Carter",
+  "status": "VISUAL_IDENTITY_LOCKED",
+  "version": "v1",
+  "project": "EP001",
+  "family_id": "F001",
+  "outfit_code": "A008-O01",
+  "role": "younger brother / second disappearing family member",
+  "visual_age": 12,
+  "height_reference_cm": 150,
+  "eye_color": "hazel-brown",
+  "hair_color": "medium brown",
+  "hair_length": "short, slightly messy",
+  "body_type": "slim child build, naturally proportioned",
+  "identity_marks": [
+    "round youthful face with soft cheeks",
+    "small straight nose",
+    "slightly shy mouth expression",
+    "quiet sensitive presence"
+  ],
+  "locked_assets": {
+    "master_face": "01_MASTER/A008_MASTER_FACE_LOCKED.png",
+    "visual_board": "01_MASTER/A008_VISUAL_IDENTITY_LOCKED_v1.png",
+    "front": "02_REFERENCE/FRONT.png",
+    "left45": "02_REFERENCE/LEFT45.png",
+    "right45": "02_REFERENCE/RIGHT45.png",
+    "front_full": "02_REFERENCE/FRONT_FULL.png"
+  },
+  "master_assets": {
+    "visual_identity": "01_MASTER/A008_VISUAL_IDENTITY_LOCKED_v1.png",
+    "multi_angle_sheet": "A008_side_back_props_sheet_v1.png",
+    "expression_action_sheet": "A008_expression_action_sheet_v1.png",
+    "ep001_action_sheet": "A008_ep001_angle_action_preview.png",
+    "preview": "A008_phase1_complete_preview.png"
+  },
+  "episode_usage": {
+    "EP001": [
+      "P002-A family portrait",
+      "P002-B continuity variant",
+      "P002-C disappearance variant"
+    ]
+  }
+}
+

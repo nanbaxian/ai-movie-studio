@@ -1,0 +1,26 @@
+{
+  "status": "COMPLETE_EP001",
+  "available": [
+    "Standing.png",
+    "FamilyPortraitPose.png",
+    "HandsInPockets.png",
+    "LookingUp.png",
+    "SeatedAtTable.png",
+    "HoldingPhoto.png",
+    "LookingBack.png",
+    "Walking.png"
+  ],
+  "source_sheet": "../A008_ep001_angle_action_preview.png",
+  "rule": "All action references must preserve A008 locked identity and A008-O01 outfit.",
+  "notes": {
+    "Standing": "neutral full-body posture",
+    "FamilyPortraitPose": "use for P002 family portrait variants",
+    "HandsInPockets": "casual younger-brother posture",
+    "LookingUp": "standing beside an implied taller family member",
+    "SeatedAtTable": "possible family table coverage",
+    "HoldingPhoto": "reaction coverage if Noah handles a photo",
+    "LookingBack": "subtle suspense coverage",
+    "Walking": "slow indoor movement reference"
+  }
+}
+
