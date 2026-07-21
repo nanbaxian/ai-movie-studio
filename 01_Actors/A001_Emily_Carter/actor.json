@@ -1,0 +1,29 @@
+{
+  "actor_id": "A001",
+  "name": "Emily Carter",
+  "status": "VISUAL_IDENTITY_LOCKED",
+  "version": "v1",
+  "project": "EP001",
+  "family_id": "F001",
+  "outfit_code": "A001-O01",
+  "visual_age": 24,
+  "height_reference_cm": 166,
+  "eye_color": "deep hazel-brown",
+  "hair_color": "dark brown",
+  "hair_length": "medium, below shoulders",
+  "body_type": "slim, naturally proportioned",
+  "identity_marks": [
+    "subtle small mole below/outer side of left eye",
+    "right eyebrow tail slightly higher than left",
+    "slightly downturned mouth corners",
+    "very subtle under-eye tiredness"
+  ],
+  "locked_assets": {
+    "master_face": "01_MASTER/A001_MASTER_FACE_LOCKED.png",
+    "visual_board": "01_MASTER/A001_VISUAL_IDENTITY_LOCKED_v1.png",
+    "front": "02_REFERENCE/FRONT.png",
+    "left45": "02_REFERENCE/LEFT45.png",
+    "right45": "02_REFERENCE/RIGHT45.png",
+    "front_full": "02_REFERENCE/FRONT_FULL.png"
+  }
+}

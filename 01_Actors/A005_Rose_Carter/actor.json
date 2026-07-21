@@ -1,0 +1,48 @@
+{
+  "actor_id": "A005",
+  "name": "Rose Carter",
+  "family": "F001 Carter Family",
+  "project": "EP001 Family Photos",
+  "role": "grandmother / family secret keeper",
+  "visual_age": 72,
+  "status": "VISUAL_IDENTITY_LOCKED",
+  "version": "v1",
+  "family_id": "F001",
+  "outfit_code": "A005-O01",
+  "height_reference_cm": 160,
+  "eye_color": "pale blue-gray",
+  "hair_color": "silver-gray",
+  "hair_length": "short, softly waved",
+  "body_type": "average elderly build, naturally proportioned",
+  "locked_identity": {
+    "hair": "silver-gray short softly waved hair",
+    "eyes": "pale blue-gray",
+    "face": "narrow face with soft cheeks and a slightly pointed chin",
+    "distinctive_mark": "small age spot on right cheek",
+    "outfit": "A005-O01"
+  },
+  "master_assets": {
+    "visual_identity": "01_MASTER/A005_VISUAL_IDENTITY_LOCKED_v1.png",
+    "expression_action_sheet": "A005_expression_action_sheet_v1.png",
+    "multi_angle_sheet": "A005_side_back_props_sheet_v1.png",
+    "full_expression_sheet": "A005_expression_full_sheet_v1.png",
+    "ep001_action_sheet": "A005_ep001_angle_action_preview.png",
+    "preview": "A005_phase1_complete_preview.png"
+  },
+  "reference_views": [
+    "02_REFERENCE/FRONT.png",
+    "02_REFERENCE/LEFT45.png",
+    "02_REFERENCE/RIGHT45.png",
+    "02_REFERENCE/LEFT_SIDE.png",
+    "02_REFERENCE/RIGHT_SIDE.png",
+    "02_REFERENCE/BACK.png",
+    "02_REFERENCE/FRONT_FULL.png"
+  ],
+  "episode_usage": {
+    "EP001": [
+      "Shot 06",
+      "Shot 07",
+      "P002 family portrait variants"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "status": "COMPLETE_PHASE1",
+  "available": [
+    "Neutral.png",
+    "Curious.png",
+    "Afraid.png",
+    "Thinking.png",
+    "Smile.png",
+    "Sad.png"
+  ],
+  "source_sheet": "../A001_expression_action_sheet_v1.png",
+  "rule": "All expression references preserve A001_MASTER_FACE_LOCKED identity.",
+  "notes": {
+    "Thinking": "generated from locked identity sheet",
+    "Smile": "use for P002-MASTER family portrait; subtle, not glamorous",
+    "Sad": "restrained sadness, no tears"
+  }
+}

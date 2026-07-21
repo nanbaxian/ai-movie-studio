@@ -1,0 +1,26 @@
+{
+  "actor_id": "A005",
+  "name": "Rose Carter",
+  "status": "VISUAL_IDENTITY_LOCKED",
+  "source_image": "A005_VISUAL_IDENTITY_LOCKED_v1.png",
+  "locked_anchors": [
+    "silver-gray short softly waved hair",
+    "pale blue-gray eyes",
+    "fine age lines around eyes, mouth, and forehead",
+    "narrow face with soft cheeks and a slightly pointed chin",
+    "small age spot on right cheek",
+    "dark charcoal knitted cardigan",
+    "pale cream long-sleeve blouse",
+    "plain dark trousers",
+    "thin gold wedding band on left hand"
+  ],
+  "avoid": [
+    "glamorous styling",
+    "villain styling",
+    "exaggerated horror expression",
+    "changed hair color",
+    "changed outfit",
+    "missing age spot"
+  ]
+}
+

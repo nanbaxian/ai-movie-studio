@@ -1,0 +1,19 @@
+{
+  "status": "LOCKED_PHASE1",
+  "available": [
+    "A005-O01"
+  ],
+  "outfits": {
+    "A005-O01": {
+      "label": "Rose bedroom / family portrait outfit",
+      "items": [
+        "dark charcoal knitted cardigan",
+        "pale cream long-sleeve blouse",
+        "plain dark trousers",
+        "thin gold wedding band on left hand"
+      ],
+      "rule": "Use for all EP001 Rose shots and family portrait variants unless a later episode explicitly overrides it."
+    }
+  }
+}
+

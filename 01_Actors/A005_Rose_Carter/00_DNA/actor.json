@@ -1,0 +1,32 @@
+{
+  "actor_id": "A005",
+  "name": "Rose Carter",
+  "status": "VISUAL_IDENTITY_LOCKED",
+  "version": "v1",
+  "project": "EP001",
+  "family_id": "F001",
+  "outfit_code": "A005-O01",
+  "visual_age": 72,
+  "height_reference_cm": 160,
+  "eye_color": "pale blue-gray",
+  "hair_color": "silver-gray",
+  "hair_length": "short, softly waved",
+  "body_type": "average elderly build, naturally proportioned",
+  "identity_marks": [
+    "small age spot on right cheek",
+    "fine age lines around eyes, mouth, and forehead",
+    "narrow face with soft cheeks",
+    "slightly pointed chin",
+    "tired lower lids",
+    "restrained mouth corners"
+  ],
+  "locked_assets": {
+    "master_face": "01_MASTER/A005_MASTER_FACE_LOCKED.png",
+    "visual_board": "01_MASTER/A005_VISUAL_IDENTITY_LOCKED_v1.png",
+    "front": "02_REFERENCE/FRONT.png",
+    "left45": "02_REFERENCE/LEFT45.png",
+    "right45": "02_REFERENCE/RIGHT45.png",
+    "front_full": "02_REFERENCE/FRONT_FULL.png"
+  }
+}
+

@@ -1,0 +1,25 @@
+{
+  "status": "COMPLETE_EP001",
+  "available": [
+    "Standing.png",
+    "Sitting.png",
+    "ReceivingPhoto.png",
+    "HoldingPhoto.png",
+    "LookingDown.png",
+    "WarningGesture.png",
+    "TremblingHands.png",
+    "TurningAway.png"
+  ],
+  "source_sheet": "../A005_ep001_angle_action_preview.png",
+  "rule": "All action references must preserve A005 locked identity and A005-O01 outfit.",
+  "notes": {
+    "Standing": "family portrait posture, modest and still",
+    "Sitting": "bedroom scene posture, slightly hunched",
+    "ReceivingPhoto": "Rose receiving the old family photo from Emily in Shot 06",
+    "HoldingPhoto": "accepting or holding the old family photo with visible tension",
+    "LookingDown": "avoids Emily's eyes after recognizing the photo",
+    "WarningGesture": "restrained warning gesture for Don't look through those photos again",
+    "TremblingHands": "close detail for Shot 06, subtle hand tremor",
+    "TurningAway": "turning slightly away with fear, useful for transition coverage"
+  }
+}

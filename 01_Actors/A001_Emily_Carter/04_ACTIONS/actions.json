@@ -1,0 +1,23 @@
+{
+  "status": "COMPLETE_EP001",
+  "available": [
+    "Standing.png",
+    "HoldingPhone.png",
+    "HoldingAlbum.png",
+    "Walking.png",
+    "LookingBack.png",
+    "HoldingPhoto.png",
+    "HoldingFlashlight.png"
+  ],
+  "source_sheet": "../A001_expression_action_sheet_v1.png",
+  "rule": "All action references preserve A001_MASTER_FACE_LOCKED identity and A001-O01 outfit.",
+  "notes": {
+    "Standing": "derived from locked FRONT_FULL reference",
+    "HoldingPhone": "phone screen should remain blank/dark unless shot requires UI",
+    "HoldingAlbum": "deep brown old album, protective posture",
+    "Walking": "slow cautious walk",
+    "LookingBack": "restrained concern, not screaming",
+    "HoldingPhoto": "Emily holding an old family photo with restrained concern; use for photo inspection shots.",
+    "HoldingFlashlight": "Emily holding flashlight for attic/search beats; use with master face for final shots."
+  }
+}

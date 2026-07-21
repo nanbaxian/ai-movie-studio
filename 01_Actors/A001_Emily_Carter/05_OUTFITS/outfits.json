@@ -1,0 +1,13 @@
+{
+  "outfits": [
+    {
+      "code": "A001-O01",
+      "name": "Home outfit",
+      "file": "O01_Home.png",
+      "top": "off-white crew-neck knitted sweater",
+      "bottom": "dark blue straight-leg jeans",
+      "shoes": "dark gray indoor shoes",
+      "status": "LOCKED"
+    }
+  ]
+}
